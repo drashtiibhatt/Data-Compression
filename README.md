@@ -131,7 +131,7 @@ Project Link: [https://github.com/drashtiibhatt/Data-Compression/](https://githu
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Harsh Pandya](https://github.com/mufaddalnaya) - For Providing Such Great Ideas
+* [Harsh Pandya](https://github.com/Pandya1811) - For Providing Such Great Ideas
 
 [contributors-shield]: https://img.shields.io/github/contributors/drashtiibhatt/Data-Compression
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
